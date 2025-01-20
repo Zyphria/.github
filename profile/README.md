@@ -29,7 +29,7 @@ Key features:
 - Semantic storage powered by PostgreSQL and pgvector
 - Extensible manager system for customizable conversational behaviors
 
-Explore Zen in its [repository](https://github.com/zyphria/zyphi).
+Explore Zyphi in its [repository](https://github.com/zyphria/zyphi).
 
 ### [Toolkit - LLM Function Calling Framework](https://github.com/zyphria/toolkit)
 
