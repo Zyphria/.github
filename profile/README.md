@@ -1,4 +1,4 @@
-# Zyphria Labs 🌌
+# Zyphria 🌌
 
 **Where AI meets Crypto.**
 
